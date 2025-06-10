@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2024-01-15T14:30:25.123456",
+    "input_file": "test.jpg",
+    "style_description": "Architectural diagram with clean vector illustration style, featuring a muted pastel color palette dominated by soft blues and grays. The image employs thin, precise linework with minimal shadows, creating a technical drawing aesthetic. The composition uses an isometric perspective with soft gradients and maintains a professional visualization quality.",
+    "generation_prompt": "architectural diagram, clean vector illustration, muted pastel color palette, thin precise linework, minimal shadows, technical drawing style, isometric view, soft gradients, professional visualization, high detail, 4K quality",
+    "output_image": "test_generated.png",
+    "output_video": "test_animated.mp4",
+    "status": "completed",
+    "completed_at": "2024-01-15T14:35:42.789012"
+  },
+  {
+    "timestamp": "2024-01-15T15:20:10.456789",
+    "input_file": "artwork.png",
+    "style_description": "Watercolor painting with vibrant, saturated colors and organic, flowing brushstrokes. The image features warm color harmonies with dominant oranges and yellows, soft blended edges, and visible paper texture. The artistic technique shows characteristic watercolor bleeding effects with transparent layering.",
+    "generation_prompt": "watercolor painting, vibrant saturated colors, organic flowing brushstrokes, warm color harmony, soft blended edges, paper texture, transparent layering, artistic illustration, high quality",
+    "output_image": "artwork_generated.png",
+    "output_video": null,
+    "status": "completed",
+    "completed_at": "2024-01-15T15:23:55.321098"
+  }
+] 
