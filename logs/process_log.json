@@ -199,5 +199,27 @@
     "output_video": null,
     "status": "completed",
     "completed_at": "2025-06-10T20:13:15.682678"
+  },
+  {
+    "timestamp": "2025-06-10T20:47:46.929707",
+    "input_file": "test.jpg",
+    "style_description": "### 1. VISUALIZATION TYPE\n- **Type**: Conceptual/clay render (white/gray models with edge lines)\n\n### 2. PERSPECTIVE & VIEW TYPE\n- **View Type**: Isometric/axonometric view\n\n### 3. MATERIALS & TEXTURES\n- **Surface Finishes**: Matte\n- **Texture Quality**: Smooth with a subtle wood grain pattern\n- **Material Suggestions**: Wood (light-colored), with some greenery\n- **Transparency Levels and Reflectivity**: Opaque surfaces with no significant transparency\n- **Edge Treatment**: Sharp corners\n\n### 4. LIGHTING & ATMOSPHERE\n- **Time of Day**: Neutral lighting, suggesting midday\n- **Light Type**: Natural sunlight\n- **Shadow Quality**: Soft shadows, enhancing the three-dimensionality\n- **Atmospheric Effects**: None present\n- **Interior Lighting**: Not applicable, as the focus is on exterior forms\n\n### 5. COLOR PALETTE & MOOD\n- **Dominant Colors**: Light wood tones with green from the trees\n- **Saturation Levels**: Muted, natural colors\n- **Color Temperature**: Warm\n- **Material Colors vs Environmental Colors**: Harmonious blend of natural wood and greenery\n\n### 6. RENDERING STYLE DETAILS\n- **Line Weights and Styles**: Clean outlines with minimal detailing\n- **Post-processing Effects**: None evident\n- **Level of Detail**: Conceptual, focusing on form rather than intricate details\n- **Artistic Filters or Stylization**: None applied\n- **Background Treatment**: Plain white background, emphasizing the models\n\n### 7. TECHNICAL QUALITY INDICATORS\n- **Resolution/Detail Level**: High resolution, allowing for clear visibility of textures\n- **Anti-aliasing Quality**: Smooth edges with no jagged lines\n- **Texture Mapping Quality**: Well-defined, with a focus on the wood grain\n- **Model Complexity**: Moderate detail, focusing on overall form rather than intricate features\n- **Presence of Entourage**: Minimal, with stylized trees enhancing the context\n\n### Summary\nThis architectural visualization employs a conceptual style with an isometric view, showcasing smooth, matte wood textures against a plain white background. The lighting is neutral, creating a warm atmosphere, while the muted color palette emphasizes the natural materials. The",
+    "generation_prompt": null,
+    "video_prompt": null,
+    "output_image": null,
+    "output_video": null,
+    "status": "failed",
+    "completed_at": "2025-06-10T20:49:17.823992"
+  },
+  {
+    "timestamp": "2025-06-10T20:51:41.207830",
+    "input_file": "test.jpg",
+    "style_description": "1. **VISUALIZATION TYPE**  \n   - Conceptual/clay render (white/gray models with edge lines)\n\n2. **PERSPECTIVE & VIEW TYPE**  \n   - Aerial/drone view (bird's eye, top-down)\n\n3. **MATERIALS & TEXTURES**  \n   - Surface finishes: matte  \n   - Texture quality: smooth  \n   - Material suggestions: wood (implied by color and texture)  \n   - Transparency levels and reflectivity: none  \n   - Edge treatment: sharp corners\n\n4. **LIGHTING & ATMOSPHERE**  \n   - Time of day: neutral (not specific to golden hour or blue hour)  \n   - Light type: natural sunlight  \n   - Shadow quality: soft shadows  \n   - Atmospheric effects: none  \n   - Interior lighting: not applicable\n\n5. **COLOR PALETTE & MOOD**  \n   - Dominant colors: light wood tones, soft greens from vegetation  \n   - Saturation levels: muted  \n   - Color temperature: warm  \n   - Material colors vs environmental colors: harmonious blend\n\n6. **RENDERING STYLE DETAILS**  \n   - Line weights and styles: clean outlines  \n   - Post-processing effects: minimal  \n   - Level of detail: conceptual  \n   - Artistic filters or stylization: none  \n   - Background treatment: plain white\n\n7. **TECHNICAL QUALITY INDICATORS**  \n   - Resolution/detail level: high  \n   - Anti-aliasing quality: smooth  \n   - Texture mapping quality: high  \n   - Model complexity: medium to high detail  \n   - Presence of entourage: minimal (small trees and figures)\n\nThis visualization style emphasizes a clean, conceptual approach with a focus on form and spatial relationships, utilizing a muted color palette and soft lighting to create an inviting atmosphere.",
+    "generation_prompt": null,
+    "video_prompt": null,
+    "output_image": null,
+    "output_video": null,
+    "status": "failed",
+    "completed_at": "2025-06-10T20:52:21.861102"
   }
 ]

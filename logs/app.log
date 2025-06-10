@@ -947,3 +947,205 @@ Sure! Here’s an analysis of the visual style, artistic technique, and aesthetic 
 2025-06-10 20:13:15,682 - INFO - Step 3: New image saved at: D:\Apps\02.Image-to-Video\image\test_generated.png
 2025-06-10 20:13:15,684 - INFO - Process completed successfully!
 2025-06-10 20:13:15,684 - INFO - --- Process Finished ---
+2025-06-10 20:42:42,779 - INFO - --- Starting Image-to-Video Process for 'test.jpg' ---
+2025-06-10 20:42:58,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:42:58,460 - INFO - Step 1: Image style analysis complete.
+2025-06-10 20:42:58,460 - INFO - Style description received:
+---
+### 1. VISUALIZATION TYPE
+- **Type**: 3D viewport render
+
+### 2. PERSPECTIVE & VIEW TYPE
+- **View Type**: Isometric/axonometric view
+
+### 3. MATERIALS & TEXTURES
+- **Surface Finishes**: Matte finish on wood surfaces; smooth texture on the gray elements.
+- **Texture Quality**: The wood appears smooth with a natural grain pattern; the gray material has a clean, uniform surface.
+- **Material Suggestions**: Wood (for the blocks), possibly a composite or plastic for the gray elements.
+- **Transparency Levels and Reflectivity**: No transparency; minimal reflectivity.
+- **Edge Treatment**: Sharp corners on the wood blocks; the gray elements have defined edges.
+
+### 4. LIGHTING & ATMOSPHERE
+- **Time of Day**: Neutral lighting, suggesting a studio environment.
+- **Light Type**: Artificial, even lighting with no harsh shadows.
+- **Shadow Quality**: Soft shadows cast by the blocks, enhancing depth.
+- **Atmospheric Effects**: None present; the background is plain and unobtrusive.
+- **Interior Lighting**: Not applicable; the setting is neutral and focused on the objects.
+
+### 5. COLOR PALETTE & MOOD
+- **Dominant Colors**: Light wood tones dominate, with gray as a secondary color.
+- **Saturation Levels**: Muted, natural colors; no vibrant hues.
+- **Color Temperature**: Warm tones from the wood; neutral gray.
+- **Material Colors vs Environmental Colors**: The materials are the primary focus against a white background.
+
+### 6. RENDERING STYLE DETAILS
+- **Line Weights and Styles**: Clean, defined edges with no visible construction lines.
+- **Post-processing Effects**: Minimal to none; the focus is on clarity.
+- **Level of Detail**: Detailed enough to show texture but not hyperrealistic.
+- **Artistic Filters or Stylization**: None; the style is straightforward and functional.
+- **Background Treatment**: Plain white background, enhancing focus on the objects.
+
+### 7. TECHNICAL QUALITY INDICATORS
+- **Resolution/Detail Level**: High resolution, allowing for clear visibility of textures.
+- **Anti-aliasing Quality**: Smooth edges with no jagged lines.
+- **Texture Mapping Quality**: Well-defined textures on the wood.
+- **
+---
+2025-06-10 20:43:00,177 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:44:10,654 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:44:30,518 - INFO - Step 2: Generation prompt accepted: 'Isometric 3D viewport render of architectural model, light wood blocks with smooth natural grain, gray composite elements with clean surface, neutral studio lighting, soft shadows enhancing depth, plain white background, high resolution, detailed textures, clean minimalist style, with super tiny silhouettes of people walking between the wooden blocks, perfectly scaled to match the blocks' proportions.'
+2025-06-10 20:44:30,518 - INFO - Generating image with prompt: 'Isometric 3D viewport render of architectural model, light wood blocks with smooth natural grain, gray composite elements with clean surface, neutral studio lighting, soft shadows enhancing depth, plain white background, high resolution, detailed textures, clean minimalist style, with super tiny silhouettes of people walking between the wooden blocks, perfectly scaled to match the blocks' proportions.'
+2025-06-10 20:44:30,518 - INFO - Using input image: D:\Apps\02.Image-to-Video\input\test.jpg
+2025-06-10 20:44:33,819 - INFO - HTTP Request: POST https://api.replicate.com/v1/files "HTTP/1.1 201 Created"
+2025-06-10 20:44:38,959 - INFO - HTTP Request: POST https://api.replicate.com/v1/models/black-forest-labs/flux-kontext-pro/predictions "HTTP/1.1 201 Created"
+2025-06-10 20:44:38,959 - INFO - Image generation complete. Saving file...
+2025-06-10 20:44:39,158 - INFO - HTTP Request: GET https://replicate.delivery/xezq/aCeQdBKRtnWhCaoHOJWwnpWZA7xgSnfgGLcisOX1p4MW8i1UA/tmpipj7r5fa.png "HTTP/1.1 200 OK"
+2025-06-10 20:44:39,230 - INFO - Image successfully downloaded and saved to 'D:\Apps\02.Image-to-Video\image\test_generated.png'
+2025-06-10 20:44:39,254 - INFO - Step 3: New image saved at: D:\Apps\02.Image-to-Video\image\test_generated.png
+2025-06-10 20:47:46,928 - INFO - --- Starting Image-to-Video Process for 'test.jpg' ---
+2025-06-10 20:48:05,602 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:48:05,687 - INFO - Step 1: Image style analysis complete.
+2025-06-10 20:48:05,687 - INFO - Style description received:
+---
+### 1. VISUALIZATION TYPE
+- **Type**: Conceptual/clay render (white/gray models with edge lines)
+
+### 2. PERSPECTIVE & VIEW TYPE
+- **View Type**: Isometric/axonometric view
+
+### 3. MATERIALS & TEXTURES
+- **Surface Finishes**: Matte
+- **Texture Quality**: Smooth with a subtle wood grain pattern
+- **Material Suggestions**: Wood (light-colored), with some greenery
+- **Transparency Levels and Reflectivity**: Opaque surfaces with no significant transparency
+- **Edge Treatment**: Sharp corners
+
+### 4. LIGHTING & ATMOSPHERE
+- **Time of Day**: Neutral lighting, suggesting midday
+- **Light Type**: Natural sunlight
+- **Shadow Quality**: Soft shadows, enhancing the three-dimensionality
+- **Atmospheric Effects**: None present
+- **Interior Lighting**: Not applicable, as the focus is on exterior forms
+
+### 5. COLOR PALETTE & MOOD
+- **Dominant Colors**: Light wood tones with green from the trees
+- **Saturation Levels**: Muted, natural colors
+- **Color Temperature**: Warm
+- **Material Colors vs Environmental Colors**: Harmonious blend of natural wood and greenery
+
+### 6. RENDERING STYLE DETAILS
+- **Line Weights and Styles**: Clean outlines with minimal detailing
+- **Post-processing Effects**: None evident
+- **Level of Detail**: Conceptual, focusing on form rather than intricate details
+- **Artistic Filters or Stylization**: None applied
+- **Background Treatment**: Plain white background, emphasizing the models
+
+### 7. TECHNICAL QUALITY INDICATORS
+- **Resolution/Detail Level**: High resolution, allowing for clear visibility of textures
+- **Anti-aliasing Quality**: Smooth edges with no jagged lines
+- **Texture Mapping Quality**: Well-defined, with a focus on the wood grain
+- **Model Complexity**: Moderate detail, focusing on overall form rather than intricate features
+- **Presence of Entourage**: Minimal, with stylized trees enhancing the context
+
+### Summary
+This architectural visualization employs a conceptual style with an isometric view, showcasing smooth, matte wood textures against a plain white background. The lighting is neutral, creating a warm atmosphere, while the muted color palette emphasizes the natural materials. The
+---
+2025-06-10 20:48:07,471 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:49:17,817 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-06-10 20:49:17,818 - ERROR - An error occurred during the process: Error code: 404 - {'error': {'message': 'The model `ft:gpt-4o-mini-2024-07-18:personal:promt-enchancer:BgxnZ0is` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Traceback (most recent call last):
+  File "D:\Apps\02.Image-to-Video\main.py", line 63, in process_image
+    generation_prompt = prompt_creator.create_prompt(style_description)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Apps\02.Image-to-Video\modules\prompt_creator.py", line 62, in create_prompt
+    generated_prompt = self.enhancer.enhance_prompt(generated_prompt, modification_request)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Apps\02.Image-to-Video\modules\prompt_enhancer.py", line 31, in enhance_prompt
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_base_client.py", line 1034, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.NotFoundError: Error code: 404 - {'error': {'message': 'The model `ft:gpt-4o-mini-2024-07-18:personal:promt-enchancer:BgxnZ0is` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-06-10 20:49:17,825 - INFO - --- Process Finished ---
+2025-06-10 20:51:41,206 - INFO - --- Starting Image-to-Video Process for 'test.jpg' ---
+2025-06-10 20:51:56,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:51:56,251 - INFO - Step 1: Image style analysis complete.
+2025-06-10 20:51:56,251 - INFO - Style description received:
+---
+1. **VISUALIZATION TYPE**  
+   - Conceptual/clay render (white/gray models with edge lines)
+
+2. **PERSPECTIVE & VIEW TYPE**  
+   - Aerial/drone view (bird's eye, top-down)
+
+3. **MATERIALS & TEXTURES**  
+   - Surface finishes: matte  
+   - Texture quality: smooth  
+   - Material suggestions: wood (implied by color and texture)  
+   - Transparency levels and reflectivity: none  
+   - Edge treatment: sharp corners
+
+4. **LIGHTING & ATMOSPHERE**  
+   - Time of day: neutral (not specific to golden hour or blue hour)  
+   - Light type: natural sunlight  
+   - Shadow quality: soft shadows  
+   - Atmospheric effects: none  
+   - Interior lighting: not applicable
+
+5. **COLOR PALETTE & MOOD**  
+   - Dominant colors: light wood tones, soft greens from vegetation  
+   - Saturation levels: muted  
+   - Color temperature: warm  
+   - Material colors vs environmental colors: harmonious blend
+
+6. **RENDERING STYLE DETAILS**  
+   - Line weights and styles: clean outlines  
+   - Post-processing effects: minimal  
+   - Level of detail: conceptual  
+   - Artistic filters or stylization: none  
+   - Background treatment: plain white
+
+7. **TECHNICAL QUALITY INDICATORS**  
+   - Resolution/detail level: high  
+   - Anti-aliasing quality: smooth  
+   - Texture mapping quality: high  
+   - Model complexity: medium to high detail  
+   - Presence of entourage: minimal (small trees and figures)
+
+This visualization style emphasizes a clean, conceptual approach with a focus on form and spatial relationships, utilizing a muted color palette and soft lighting to create an inviting atmosphere.
+---
+2025-06-10 20:51:58,059 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-10 20:52:21,856 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-06-10 20:52:21,857 - ERROR - An error occurred during the process: Error code: 404 - {'error': {'message': 'The model `gpt-4o-mini-2024-07-18:personal:promt-enchancer:BgxnZ0is` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+Traceback (most recent call last):
+  File "D:\Apps\02.Image-to-Video\main.py", line 63, in process_image
+    generation_prompt = prompt_creator.create_prompt(style_description)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Apps\02.Image-to-Video\modules\prompt_creator.py", line 62, in create_prompt
+    generated_prompt = self.enhancer.enhance_prompt(generated_prompt, modification_request)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Apps\02.Image-to-Video\modules\prompt_enhancer.py", line 31, in enhance_prompt
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mateu\anaconda3\Lib\site-packages\openai\_base_client.py", line 1034, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.NotFoundError: Error code: 404 - {'error': {'message': 'The model `gpt-4o-mini-2024-07-18:personal:promt-enchancer:BgxnZ0is` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-06-10 20:52:21,862 - INFO - --- Process Finished ---
